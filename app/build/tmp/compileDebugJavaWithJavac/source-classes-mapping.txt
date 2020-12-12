@@ -1,0 +1,8 @@
+com/example/trabalhopraticomod2/BuildConfig.java
+ com.example.trabalhopraticomod2.BuildConfig
+com/example/trabalhopraticomod2/ResultActivity.java
+ com.example.trabalhopraticomod2.ResultActivity
+ com.example.trabalhopraticomod2.ResultActivity$1
+com/example/trabalhopraticomod2/MainActivity.java
+ com.example.trabalhopraticomod2.MainActivity
+ com.example.trabalhopraticomod2.MainActivity$1

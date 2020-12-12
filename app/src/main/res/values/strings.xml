@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trabalho Pratico Mod 2</string>
+    <string name="button1">Calcular</string>
+    <string name="outros_descontos">Outros Descontos</string>
+    <string name="qtd_de_dependentes">Qtd de Dependentes</string>
+    <string name="titulo">Calculadora de Salário Líquido</string>
+    <string name="salario_bruto">Salário Bruto</string>
+    <string name="reais">R$</string>
+    <string name="zerado">0,00</string>
+    <string name="zero">0</string>
+</resources>
